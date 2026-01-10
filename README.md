@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Game development, tools, and systems-focused projects
 - 🤔 I’m looking for help with Experienced game developers, especially Unreal Engine developers
 - 💬 Ask me about Gameplay systems, Unreal Engine fundamentals, and C++ learning journey
-- 📫 How to reach me: GitHub Discussions / Issues / Gmails(All in my Bios)
+- 📫 How to reach me: GitHub Discussions / Issues / rootcode56@gmail.com / asiftanjim59@gmail.com
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: I enjoy breaking systems just to understand how to rebuild them better
+- ⚡ Fun fact: I enjoy breaking systems to understand how to rebuild them better
 

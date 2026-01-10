@@ -1,85 +1,102 @@
-<h1 align="center">Hi 👋, I'm Asif Tanjim</h1>
-<h3 align="center">Unreal Engine Developer | Gameplay Engineer | C++ Developer</h3>
-
-<div align="center">
-  <img 
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWthOTE0YzNnbjk4dWs5dXA3NDJ0cTJhN3o0aWtiemdkYnU1eXh6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6q7HkO26vm7NhI4hKQ/giphy.gif" 
-    alt="Unreal Engine Animation." 
-    width="500"
-  />
-</div>
-
-
-- 🔭 I’m currently working on **Unreal Engine C++ gameplay systems, core mechanics, and real-time systems**
-
-- 🌱 I’m currently learning **C++, C, Python | Unreal Engine | Visual Studio | Visual Studio Code**
-
-- 👯 I’m looking to collaborate on **Game development, tools, and systems-focused projects**
-
-- 🤝 I’m looking for help from **experienced game developers, especially Unreal Engine developers**
-
-- 👨‍💻 All of my projects are available at **https://asiftanjimgamedev.vercel.app**
-
-- 💬 Ask me about **gameplay systems, Unreal Engine fundamentals, and my C++ learning journey**
-
-- 📫 How to reach me:  
-  ✉️ **rootcode56@gmail.com | asiftanjim59@gmail.com**
-
-- 📄 Know about my experiences:  
-  **https://drive.google.com/file/d/16GlI7FXuG8BDhp57p0Hrh_7dLzW51Er1/view?usp=sharing**
-
-- ⚡ Fun fact: **I enjoy breaking systems just to understand how to rebuild them better**
-
-### 🛠 Languages and Tools
-
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/></a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-</p>
-
-
-## 🏆 GitHub Achievements
-*Earned through real collaboration and contributions.*
-
-<p align="left">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="64" title="Pull Shark – Merged pull requests"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="64" title="Quickdraw – Closed issues or PRs quickly"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="64" title="YOLO – Merged a pull request without review"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="64" title="Pair Extraordinaire – Co-authored commits"/>
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rootcoode56&" alt="rootcoode56" /></p>
-
----
-
-## 📈 Contribution Activity
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Asif%20Tanjim&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Gameplay%20Engineer%20and%20C%2B%2B%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rootcoode56&theme=react-dark&hide_border=true&area=true" 
-    alt="GitHub Contribution Graph."
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Consistency%20beats%20intensity;One%20system%20at%20a%20time%F0%9F%8E%AE" alt="Typing introduction" />
 </p>
 
----
-
-### 🔗 Connect with me
-
-<p align="left">
-  <a href="https://twitter.com/asif_tanjim15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asif_tanjim15" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/asif-tanjim-747210396" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asif-tanjim-747210396" height="30" width="40" /></a>
-  <a href="https://fb.com/asiftanjim15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asiftanjim15" height="30" width="40" /></a>
-  <a href="https://instagram.com/asif_tanjim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asif_tanjim_" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/asiftanjim59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="asiftanjim59" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/asiftanjim59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asiftanjim59" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=rootcoode56">
+    <img src="https://komarev.com/ghpvc/?username=rootcoode56&label=Profile%20views&color=00FFFF&style=flat-square" alt="rootcoode56's profile views" />
+  </a>
 </p>
 
----
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rootcoode56&show_icons=true&locale=en&layout=compact" alt="rootcoode56" /></p>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWthOTE0YzNnbjk4dWs5dXA3NDJ0cTJhN3o0aWtiemdkYnU1eXh6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6q7HkO26vm7NhI4hKQ/giphy.gif" alt="Banner" width="100%" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rootcoode56&show_icons=true&locale=en" alt="rootcoode56" /></p>
--->
+## 📌 About Me
+- 🔭 I’m currently working on Unreal Engine C++ gameplay systems, core mechanics, and real-time systems
+- 🌱 I’m currently learning C++, C, Python | Unreal Engine | Visual Studio | Visual Studio Code
+- 👯 I’m looking to collaborate on Game development, tools, and systems-focused projects
+- 🤝 I’m looking for help from experienced game developers, especially Unreal Engine developers
+- 👨‍💻 All of my projects are available at https://asiftanjimgamedev.vercel.app
+- 💬 Ask me about gameplay systems, Unreal Engine fundamentals, and my C++ learning journey
+- 📫 How to reach me: ✉️ rootcode56@gmail.com | asiftanjim59@gmail.com
+- ⚡ Fun fact: I enjoy breaking systems just to understand how to rebuild them better
+
+
+## 🧠 My Focus Areas
+-Gameplay Engineering fundamentals (UE5, C++, core systems)
+-Consistent technical skill-building (daily/weekly practice over spikes)
+-Academic strategy and CGPA recovery (planned, low-chaos semesters)
+-Emotional regulation without suppression (feeling without losing control)
+-Healthy boundaries in relationships (especially one-sided dynamics)
+-Self-respect and identity stability (not seeking validation)
+-Long-term career positioning (junior gameplay / C++ roles)
+-Mental clarity and grounded decision-making
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=rootcoode56&theme=monokai&radius=10" alt="rootcoode56's Activity Graph" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## DevOps & Cloud
+<p align="center"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+<p align="center">
+  <img src="https://cdn.simpleicons.org/unrealengine/FFFFFF" alt="Unreal Engine" width="48" height="48" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" />
+</p>
+
+
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/asif-tanjim-747210396" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/asif_tanjim15" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/38701914254644" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:rootcode56@gmail.com" target="blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://asiftanjimgamedev.vercel.app" target="blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" />
+  </a>
+</p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+</div>
+

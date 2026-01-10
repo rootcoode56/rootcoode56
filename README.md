@@ -14,24 +14,32 @@
 
 ## 📌 About Me
 - 🔭 I’m currently working on Unreal Engine C++ gameplay systems, core mechanics, and real-time systems
+  
 - 🌱 I’m currently learning C++, C, Python | Unreal Engine | Visual Studio | Visual Studio Code
+
 - 👯 I’m looking to collaborate on Game development, tools, and systems-focused projects
+
 - 🤝 I’m looking for help from experienced game developers, especially Unreal Engine developers
+
 - 👨‍💻 All of my projects are available at https://asiftanjimgamedev.vercel.app
+
 - 💬 Ask me about gameplay systems, Unreal Engine fundamentals, and my C++ learning journey
+
 - 📫 How to reach me: ✉️ rootcode56@gmail.com | asiftanjim59@gmail.com
+
 - ⚡ Fun fact: I enjoy breaking systems just to understand how to rebuild them better
 
 
 ## 🧠 My Focus Areas
--Gameplay Engineering fundamentals (UE5, C++, core systems)
--Consistent technical skill-building (daily/weekly practice over spikes)
--Academic strategy and CGPA recovery (planned, low-chaos semesters)
--Emotional regulation without suppression (feeling without losing control)
--Healthy boundaries in relationships (especially one-sided dynamics)
--Self-respect and identity stability (not seeking validation)
--Long-term career positioning (junior gameplay / C++ roles)
--Mental clarity and grounded decision-making
+- Gameplay Engineering fundamentals (UE5, C++, core systems)
+- Consistent technical skill-building (daily/weekly practice over spikes)
+- Academic strategy and CGPA recovery (planned, low-chaos semesters)
+- Emotional regulation without suppression (feeling without losing control)
+- Healthy boundaries in relationships (especially one-sided dynamics)
+- Self-respect and identity stability (not seeking validation)
+- Long-term career positioning (junior gameplay / C++ roles)
+- Mental clarity and grounded decision-making
+
 
 
 ## 📊 GitHub Stats & Trophies
@@ -101,9 +109,9 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
 <p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>

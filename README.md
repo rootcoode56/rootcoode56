@@ -4,12 +4,11 @@
 <div align="center">
   <img 
     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWthOTE0YzNnbjk4dWs5dXA3NDJ0cTJhN3o0aWtiemdkYnU1eXh6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6q7HkO26vm7NhI4hKQ/giphy.gif" 
-    alt="Unreal Engine Animation" 
+    alt="Unreal Engine Animation." 
     width="500"
   />
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rootcoode56" alt="rootcoode56" /></a> </p>
 
 - 🔭 I’m currently working on **Unreal Engine C++ gameplay systems, core mechanics, and real-time systems**
 

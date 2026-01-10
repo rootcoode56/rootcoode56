@@ -39,6 +39,18 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=rootcoode56&theme=monokai&radius=10" alt="rootcoode56's Activity Graph" />
 </p>
 
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" width="72" height="72" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" width="72" height="72" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" width="72" height="72" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="Pair Extraordinaire" width="72" height="72" />
+</p>
+
+
 
 ## 🛠️ Languages & Tools
 

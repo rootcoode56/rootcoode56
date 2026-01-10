@@ -30,6 +30,18 @@
 
 - ⚡ Fun fact: **I enjoy breaking systems just to understand how to rebuild them better**
 
+## 🏆 GitHub Achievements
+*Earned through real collaboration and contributions.*
+
+<p align="left">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="64" title="Pull Shark – Merged pull requests"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="64" title="Quickdraw – Closed issues or PRs quickly"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="64" title="YOLO – Merged a pull request without review"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="64" title="Pair Extraordinaire – Co-authored commits"/>
+</p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rootcoode56&" alt="rootcoode56" /></p>
+
 ---
 
 ### 🔗 Connect with me
@@ -56,9 +68,8 @@
 </p>
 
 ---
-
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rootcoode56&show_icons=true&locale=en&layout=compact" alt="rootcoode56" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rootcoode56&show_icons=true&locale=en" alt="rootcoode56" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rootcoode56&" alt="rootcoode56" /></p>
+-->

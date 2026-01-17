@@ -59,6 +59,38 @@
 </p>
 
 
+## 🎓 Certifications & Assessments
+
+### 🏅 Electronic Arts (EA) – Software Engineering Job Simulation (Forage)
+- 📅 Earned: **Jan 2026**
+- 🧠 What I worked on:
+  - Proposed and documented a gameplay feature for *EA Sports College Football*
+  - Designed class diagrams and C++ header interfaces for gameplay systems
+  - Fixed a live inventory bug by refactoring a C-style array to `std::vector.`
+- 🛠️ Skills demonstrated:
+  - Object-Oriented Programming (C++)
+  - Data Structures & System Design
+  - Debugging and refactoring live codebases
+- 🎯 Outcome:
+  - Learned real-world gameplay engineering workflows used in large studios
+- 🔗 Certificate: https://drive.google.com/file/d/1SS1LF_jL6fjEM1B1XG-tiQyipYhR3N6M/view?usp=drive_link 
+
+---
+
+
+### 🏅 HackerRank – Software Engineer Intern (Role Certification)
+- 📅 Earned: Jan 2026  
+- 🧠 Assessed on:
+  - Data Structures & Algorithms
+  - Problem Solving under constraints
+  - SQL fundamentals
+- 🛠️ What I did to earn it:
+  - Practiced DSA consistently (arrays, greedy, intervals)
+  - Solved timed coding problems with edge cases
+  - Strengthened SQL joins, filtering, and aggregation
+- 🔗 Certificate: https://www.hackerrank.com/certificates/iframe/bf9370571ec8
+
+---
 
 ## 🛠️ Languages & Tools
 

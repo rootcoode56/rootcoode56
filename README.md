@@ -73,7 +73,7 @@
   - Debugging and refactoring live codebases
 - 🎯 Outcome:
   - Learned real-world gameplay engineering workflows used in large studios
-- 🔗 Certificate: https://drive.google.com/file/d/1SS1LF_jL6fjEM1B1XG-tiQyipYhR3N6M/view?usp=drive_link 
+- 🔗 Certificate: https://www.theforage.com/completion-certificates/j43dGscQHtJJ57N54/a77WE3de8qrxWferQ_j43dGscQHtJJ57N54_69694a53079e794b0ccc66bb_1768565434621_completion_certificate.pdf
 
 ---
 

@@ -134,7 +134,7 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://asiftanjimgamedev.vercel.app" target="blank">
+  <a href="https://asiftanjim59.framer.ai" target="blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" />
   </a>
 </p>

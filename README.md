@@ -15,7 +15,7 @@
 ## 📌 About Me
 - 🔭 I’m currently working on Unreal Engine C++ gameplay systems, core mechanics, and real-time systems
   
-- 🌱 I’m currently learning C++, C, Python | Unreal Engine | Visual Studio | Visual Studio Code
+- 🌱 Improving & learning C++, C, Python | Unreal Engine | Visual Studio | Visual Studio Code
 
 - 👯 I’m looking to collaborate on Game development, tools, and systems-focused projects
 

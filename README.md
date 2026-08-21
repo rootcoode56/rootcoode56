@@ -21,7 +21,7 @@
 
 - 🤝 I’m looking for help from experienced game developers, especially Unreal Engine developers
 
-- 👨‍💻 All of my projects are available at https://asiftanjim59.framer.ai
+- 👨‍💻 All of my projects are available at https://asiftanjim59.framer.ai & https://asif-gamedev-folio.lovable.app
 
 - 💬 Ask me about gameplay systems, Unreal Engine fundamentals, and my C++ learning journey
 

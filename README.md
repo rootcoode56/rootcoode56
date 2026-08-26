@@ -1,8 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Asif%20Tanjim&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Gameplay%20Engineer%20and%20C%2B%2B%20Developer&descSize=18&descAlignY=55&textBg=false"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Consistency%20beats%20intensity;One%20system%20at%20a%20time%F0%9F%8E%AE" alt="Typing introduction" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=QM%20Asif%20Tanjim&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Gameplay%20Engineer%20%7C%20Unreal%20Engine%20C%2B%2B%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=rootcoode56">

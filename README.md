@@ -44,7 +44,13 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=rootcoode56&theme=monokai&radius=10" alt="rootcoode56's Activity Graph" />
+  <a href="https://github.com/rootcoode56">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rootcoode56&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="rootcoode56's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=rootcoode56&theme=dracula&hide_border=true&cache_seconds=86400" alt="rootcoode56's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=rootcoode56&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Nowren Mahjabin Khan's GitHub Trophies" />
 </p>
 
 ## 🏆 Achievements

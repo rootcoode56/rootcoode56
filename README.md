@@ -40,7 +40,7 @@
 - Long-term career positioning (junior gameplay / C++ roles)
 - Mental clarity and grounded decision-making
 
-
+---
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -52,6 +52,11 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=rootcoode56&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Nowren Mahjabin Khan's GitHub Trophies" />
 </p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=rootcoode56&theme=dracula&radius=10" alt="rootcoode56's Activity Graph" />
+</p>
+
+---
 
 ## 🏆 Achievements
 <p align="center">
@@ -101,7 +106,16 @@
 ## 🛠️ Languages & Tools
 
 > ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" alt="C" width="48" height="48" style="margin: 4px;" />
+</p>
 
 > ## Database
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /></p>
@@ -119,6 +133,13 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" />
 </p>
+
+> ## 🔧 Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" alt="Development Tools" />
+</p>
+
 
 
 ## 🔗 Connect with Me

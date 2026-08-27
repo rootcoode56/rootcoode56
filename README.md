@@ -25,16 +25,16 @@
 
 - ⚡ Fun fact: I enjoy breaking systems just to understand how to rebuild them better
 
+---
 
-## 🧠 My Focus Areas
-- Gameplay Engineering fundamentals (UE5, C++, core systems)
-- Consistent technical skill-building (daily/weekly practice over spikes)
-- Academic strategy and CGPA recovery (planned, low-chaos semesters)
-- Emotional regulation without suppression (feeling without losing control)
-- Healthy boundaries in relationships (especially one-sided dynamics)
-- Self-respect and identity stability (not seeking validation)
-- Long-term career positioning (junior gameplay / C++ roles)
-- Mental clarity and grounded decision-making
+## 🎮 Gameplay Engineering Focus
+
+- Unreal Engine 5 & C++
+- Gameplay systems and core mechanics
+- Event-driven and modular gameplay architecture
+- Gameplay Ability System (GAS)
+- Gameplay AI
+- Continuous improvement in C++ and Unreal Engine
 
 ---
 
